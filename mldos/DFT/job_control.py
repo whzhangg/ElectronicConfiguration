@@ -11,6 +11,7 @@ from mldos.tools import (
 from ._output_parser import SCFout
 from .calculation import SingleCalculation
 
+root = ""
 dos_calculation = os.path.join(root, "dos_calculation")
 DONE = os.path.join(root, "dos_calculation/calc/done")
 FAIL = os.path.join(root, "dos_calculation/calc/failed")
