@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for xz in $(ls *.xz)
+do
+
+xz -dk $xz
+
+done

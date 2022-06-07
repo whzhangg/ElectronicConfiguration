@@ -4,11 +4,9 @@ import numpy as np
 import argparse
 from ase.data import chemical_symbols
 
-from mldos.data.data_generation import Data
-from mldos.data.config import *
+from mldos.data.criteria import *
 from mldos.tools import format_formula, write_cif_file, atom_from_cpt, read_generic_to_cpt
 from mldos.data.milad_utility import Description
-import os
 
 
 class SimplePlotter:
@@ -57,7 +55,8 @@ class CompoundPlotter:
         self.prefix = prefix
         self.filename = filename or prefix + ".pdf"
 
-        data = Data(criteria)
+        #from mldos.data.data_generation import Data
+        data = None
 
         self.local_structure = data.get_local_structure(self.prefix)
         self.fingerprint = data.make_descriptor(self.prefix)
@@ -68,6 +67,7 @@ class CompoundPlotter:
         self.dos = dosdict["dos"]       # "up" and "down" for each site
 
         self.c, self.p, self.t = data.get_cpt(prefix) 
+
 
     def write_cif(self, site: int = None, filename:str = None):
         if len(self.dos.keys()) > 1 and not site:
@@ -86,6 +86,7 @@ class CompoundPlotter:
         t = [self.t[i] for i,_ in local_structure]
 
         write_cif_file(filename, atom_from_cpt(c, p, t))
+
 
     def plot(self, site: int = None, filename:str = None):
         if len(self.dos.keys()) > 1 and not site:

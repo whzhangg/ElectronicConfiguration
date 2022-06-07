@@ -1,7 +1,7 @@
 from collections import namedtuple
 from copy import deepcopy
 from operator import itemgetter
-import warnings
+import warnings, typing
 import numpy as np
 
 from ase.data import chemical_symbols
@@ -199,7 +199,7 @@ class Description(StructLite):
         bonded: bool,
         firstshell: bool,
         cutoff: float
-    ) -> dict:
+    ) -> typing.Dict[int, typing.List[Neighbor]]:
         """this provide a method to get neighbors only in a dictionary and list of tuples, only the 
         one who's first shell contain only maingroup is returned"""
         if firstshell: 
@@ -229,7 +229,7 @@ class Description(StructLite):
         weight_decay_q : float = 5.0,
         print_neighbors : bool = False,
         check_neighbors : bool = True
-    ) -> dict:
+    ) -> typing.Dict[int, typing.Dict[str, np.ndarray]]:
         """
         bonded_only will give only the coordinates identified by the VoronoiNN
 

@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for h5 in $(ls *.h5)
+do
+
+xz -zk $h5
+
+done

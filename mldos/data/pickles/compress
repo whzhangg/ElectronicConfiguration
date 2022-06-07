@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for pkl in $(ls *.pkl)
+do
+
+xz -zk $pkl
+
+done

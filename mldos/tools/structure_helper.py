@@ -1,10 +1,10 @@
-import re
+import re, typing
 import numpy as np
 from ase.data import chemical_symbols
 from ase import io, Atoms
   
 
-def atom_from_cpt(lattice, positions, types):
+def atom_from_cpt(lattice, positions, types) -> Atoms:
     result = Atoms(cell = lattice, scaled_positions = positions)
     if type(types[0]) == str:
         result.set_chemical_symbols(types)
@@ -99,6 +99,6 @@ def format_formula(formula:str) -> str:
     return result
 
 
-def write_cif_file(filename,struct):
+def write_cif_file(filename: str,struct: Atoms) -> None:
     io.write(filename, struct, format='cif')
 

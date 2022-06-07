@@ -2,8 +2,6 @@
 **/__pycache__/   
 **/.DS_Store
 
-/mldos/models/saved/*
-/mldos/models/error_10fold/*
-/mldos/models/*.json
 /mldos/data/hdf/*.h5    
+/mldos/data/pickles/*.pkl
 /mldos/*/run.py

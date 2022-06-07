@@ -3,8 +3,8 @@ import numpy as np
 import torch
 
 from mldos.tools import separate_formula
-from mldos.data.config import tm_maingroup_metal, tm_maingroup
-from mldos.data.data_generation import open_dataset
+from mldos.data.criteria import tm_maingroup_metal, tm_maingroup
+from mldos.data.datasets import open_dataset
 from ._model_parameter import torch_dtype, torch_device
 
 """

@@ -1,0 +1,8 @@
+this folder contain result of training with the 
+same network but different inputs
+
+self-interaction without weight sharing
+multilinear 40 * 65 -> 500 -> 200
+splitoutput 200 -> 100 -> 2
+
+dropout 0.1, 0
