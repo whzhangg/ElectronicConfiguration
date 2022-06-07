@@ -11,7 +11,7 @@ from pymatgen.analysis.local_env import VoronoiNN
 from pymatgen.core.structure import Structure
 
 from mldos.parameters import MAIN_GROUP, Simple_METAL
-from mldos.DFT.crystal import StructLite
+from mldos.crystalstructure import StructLite
 
 allow_neighbors = MAIN_GROUP | Simple_METAL
 
