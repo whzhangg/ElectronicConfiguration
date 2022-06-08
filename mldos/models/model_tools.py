@@ -16,7 +16,7 @@ def load_model(model, filename = "current_model.pt"):
 
 
 def get_mae_error(filename, root_folder = "mldos/models/error_10fold", print_result = False):
-    filename = os.path.join(root, root_folder, filename)
+    filename = os.path.join(root_folder, filename)
     data = read_json(filename)
     result = {}
     for step, eachstep in data.items():

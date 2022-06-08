@@ -23,13 +23,14 @@ class SimplePlotter:
     def types(self):
         return self.description.std_types
 
+
     def write_cif(self, which: int, filename: str):
         localstructures = self.description.get_neighbors(
             [which], bonded=self.criteria["bonded_only"],
             firstshell = self.criteria["firstshell_only"],
             cutoff = self.criteria["cutoff"]
         )
-        localstructure = localstructures[0]
+        localstructure = localstructures[which]
         cellsize = 20.0
         c = np.eye(3) * cellsize
         p = np.vstack([vector for _,vector in localstructure]) / cellsize
@@ -42,7 +43,7 @@ class SimplePlotter:
                                 firstshell = self.criteria["firstshell_only"],
                                 cutoff = self.criteria["cutoff"],
                                 smooth = self.criteria["smooth"] )
-        return feature[0]
+        return feature[which]
 
 
 class CompoundPlotter:

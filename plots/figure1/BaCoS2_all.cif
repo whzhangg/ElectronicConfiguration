@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       CoBaSCoBaCo2SBaCoSCoSBaCoBaCoSCo
+_chemical_formula_sum              "Co9 Ba5 S5"
+_cell_length_a       20
+_cell_length_b       20
+_cell_length_c       20
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  -0.11420  -0.11420  -0.08343  1.0000
+  Ba  Ba1       1.0  -0.11420  -0.11420  0.09353  1.0000
+  S   S1        1.0  -0.11420  0.00000  -0.04171  1.0000
+  Co  Co2       1.0  -0.11420  0.11420  -0.08343  1.0000
+  Ba  Ba2       1.0  -0.11420  0.11420  0.09353  1.0000
+  Co  Co3       1.0  -0.22840  0.00000  0.00000  1.0000
+  Co  Co4       1.0  0.11420  -0.11420  -0.08343  1.0000
+  S   S2        1.0  0.00000  -0.11420  -0.04171  1.0000
+  Ba  Ba3       1.0  0.11420  -0.11420  0.09353  1.0000
+  Co  Co5       1.0  0.00000  -0.22840  0.00000  1.0000
+  S   S3        1.0  0.11420  0.00000  -0.04171  1.0000
+  Co  Co6       1.0  0.11420  0.11420  -0.08343  1.0000
+  S   S4        1.0  0.00000  0.11420  -0.04171  1.0000
+  Ba  Ba4       1.0  0.00000  0.00000  -0.17696  1.0000
+  Co  Co7       1.0  0.22840  0.00000  0.00000  1.0000
+  Ba  Ba5       1.0  0.11420  0.11420  0.09353  1.0000
+  Co  Co8       1.0  0.00000  0.22840  0.00000  1.0000
+  S   S5        1.0  0.00000  0.00000  0.11423  1.0000
+  Co  Co9       1.0  0.00000  0.00000  0.00000  1.0000

@@ -1,0 +1,219 @@
+K6Zn4Sn5S17.cif: spin up:  4.95, spin down:  4.94, charge:  9.89, moment:  0.01
+Sc11Ga9.cif   : spin up:  1.96, spin down:  2.01, charge:  3.96, moment: -0.05
+K3V1S4.cif    : spin up:  1.81, spin down:  1.89, charge:  3.70, moment: -0.08
+Sc3Ga5.cif    : spin up:  1.06, spin down:  1.13, charge:  2.20, moment: -0.07
+Cu3Al14S24.cif: spin up:  4.81, spin down:  4.81, charge:  9.62, moment: -0.01
+V9In1S12.cif  : spin up:  2.31, spin down:  1.96, charge:  4.28, moment:  0.35
+Li3Sc1Cl6.cif : spin up:  0.74, spin down:  0.73, charge:  1.47, moment:  0.01
+Ti8Bi9.cif    : spin up:  1.48, spin down:  1.48, charge:  2.96, moment:  0.01
+Ca2Zn1Sb2.cif : spin up:  4.93, spin down:  4.94, charge:  9.87, moment: -0.00
+Cu7Tl1S4.cif  : spin up:  4.79, spin down:  4.80, charge:  9.59, moment: -0.00
+Co2Sn3Se3.cif : spin up:  4.30, spin down:  4.07, charge:  8.37, moment:  0.23
+K3Fe2Se4.cif  : spin up:  4.46, spin down:  1.99, charge:  6.45, moment:  2.47
+Rb2Cu2Sb2S5.cif: spin up:  4.86, spin down:  4.86, charge:  9.72, moment: -0.00
+Cs5Cu3Cl6I2.cif: spin up:  4.64, spin down:  4.56, charge:  9.20, moment:  0.08
+Cu1P4S3I1.cif : spin up:  4.77, spin down:  4.75, charge:  9.52, moment:  0.02
+Cu1Ga1P2Cl4.cif: spin up:  4.76, spin down:  4.69, charge:  9.45, moment:  0.07
+Mn4Si7.cif    : spin up:  3.63, spin down:  2.01, charge:  5.64, moment:  1.61
+K1Rb5Zn4Sn5S17.cif: spin up:  4.95, spin down:  4.95, charge:  9.90, moment:  0.01
+V12Ga1Ge2S24.cif: spin up:  2.12, spin down:  1.52, charge:  3.64, moment:  0.59
+Ba3Fe1S5.cif  : spin up:  4.44, spin down:  1.88, charge:  6.32, moment:  2.56
+V2P4S13.cif   : spin up:  2.80, spin down:  0.76, charge:  3.56, moment:  2.04
+Cr9In7S24.cif : spin up:  3.80, spin down:  0.81, charge:  4.61, moment:  2.99
+Ba12Fe1Si3S20.cif: spin up:  4.20, spin down:  2.23, charge:  6.43, moment:  1.97
+La6Ni20As13.cif: spin up:  3.80, spin down:  3.76, charge:  7.56, moment:  0.04
+K5Rb1Zn4Sn5S17.cif: spin up:  4.95, spin down:  4.94, charge:  9.90, moment:  0.01
+Sc2Te1.cif    : spin up:  2.32, spin down:  2.01, charge:  4.33, moment:  0.30
+Cr3Ga1S6.cif  : spin up:  3.77, spin down:  0.84, charge:  4.61, moment:  2.93
+Rb3Cu2Bi5S10.cif: spin up:  4.86, spin down:  4.86, charge:  9.72, moment:  0.00
+Li1K2V1S4.cif : spin up:  1.83, spin down:  1.83, charge:  3.66, moment:  0.00
+K5Cs1Zn4Sn5S17.cif: spin up:  4.95, spin down:  4.94, charge:  9.89, moment:  0.01
+Ni18As1Bi3S16.cif: spin up:  4.03, spin down:  3.89, charge:  7.91, moment:  0.14
+Ca1Cr2Al20.cif: spin up:  3.17, spin down:  2.61, charge:  5.78, moment:  0.55
+K3Zn1N1O3Cl4.cif: spin up:  4.26, spin down:  4.24, charge:  8.50, moment:  0.01
+Cu9In11Se20.cif: spin up:  4.83, spin down:  4.83, charge:  9.66, moment: -0.01
+Cs2Zn1Bi2S5.cif: spin up:  4.97, spin down:  4.96, charge:  9.93, moment:  0.02
+Ba2Sc1Cl7.cif : spin up:  0.75, spin down:  0.72, charge:  1.47, moment:  0.02
+Cu4Bi1Se4I1.cif: spin up:  4.72, spin down:  4.70, charge:  9.43, moment:  0.02
+Cu2P7.cif     : spin up:  4.81, spin down:  4.81, charge:  9.61, moment: -0.00
+Cu12As1Sb3S16.cif: spin up:  4.81, spin down:  4.81, charge:  9.62, moment: -0.01
+K7Fe5S10.cif  : spin up:  4.47, spin down:  1.83, charge:  6.30, moment:  2.64
+Cs1Mn1In1Te3.cif: spin up:  4.88, spin down:  0.47, charge:  5.34, moment:  4.41
+Sc11Al2Ge8.cif: spin up:  1.11, spin down:  1.15, charge:  2.26, moment: -0.05
+K4Ti3S14.cif  : spin up:  1.29, spin down:  1.31, charge:  2.60, moment: -0.02
+K2Mn1Sn2Se6.cif: spin up:  4.93, spin down:  0.46, charge:  5.39, moment:  4.47
+La1Cr2Al20.cif: spin up:  3.16, spin down:  2.62, charge:  5.79, moment:  0.54
+Ni10Sn5P3.cif : spin up:  8.36, spin down:  8.37, charge: 16.73, moment: -0.01
+Ba2Cr5S10.cif : spin up:  3.82, spin down:  0.79, charge:  4.60, moment:  3.03
+Ba1Cr4S7.cif  : spin up:  3.86, spin down:  0.75, charge:  4.61, moment:  3.12
+Mg3Ti2Al18.cif: spin up:  1.64, spin down:  1.67, charge:  3.31, moment: -0.03
+Cu1P4Se3I1.cif: spin up:  4.78, spin down:  4.76, charge:  9.54, moment:  0.02
+Ba1Ni10P6.cif : spin up:  3.74, spin down:  3.76, charge:  7.50, moment: -0.02
+Rb1Cr15Te24.cif: spin up:  4.09, spin down:  0.70, charge:  4.79, moment:  3.39
+Ti5As3.cif    : spin up:  1.93, spin down:  1.80, charge:  3.73, moment:  0.13
+Cu2Al2Bi2S3Cl8.cif: spin up:  5.00, spin down:  5.00, charge: 10.00, moment: -0.00
+K3Cr11S18.cif : spin up:  3.79, spin down:  0.82, charge:  4.61, moment:  2.97
+Cs1Ti1P2S8.cif: spin up:  1.26, spin down:  1.28, charge:  2.54, moment: -0.02
+Ti5P3.cif     : spin up:  1.74, spin down:  1.71, charge:  3.45, moment:  0.04
+Cu6Pb1O8Se2Cl5.cif: spin up:  4.90, spin down:  4.61, charge:  9.51, moment:  0.30
+Cu1As4S3Cl1.cif: spin up:  4.88, spin down:  4.81, charge:  9.69, moment:  0.06
+Mn1Tl2As2S5.cif: spin up:  4.84, spin down:  0.43, charge:  5.27, moment:  4.40
+La1Co2Al8.cif : spin up:  4.08, spin down:  4.06, charge:  8.14, moment:  0.03
+Ti1Sn1Sb1.cif : spin up:  4.46, spin down:  4.27, charge:  8.73, moment:  0.18
+K3Cu2Bi5S10.cif: spin up:  4.86, spin down:  4.86, charge:  9.72, moment: -0.00
+Ni2Si1As1.cif : spin up:  3.82, spin down:  3.82, charge:  7.64, moment:  0.00
+Ba1Cu1Sb1S3.cif: spin up:  4.86, spin down:  4.86, charge:  9.72, moment: -0.00
+V12Ga2Ge1S24.cif: spin up:  2.14, spin down:  1.50, charge:  3.63, moment:  0.64
+Zn3P2.cif     : spin up:  5.07, spin down:  5.09, charge: 10.15, moment: -0.02
+K2Cu1Ga3Se6.cif: spin up:  4.81, spin down:  4.82, charge:  9.63, moment: -0.01
+Na1Sr7Cu8S8F8.cif: spin up:  4.10, spin down:  3.19, charge:  7.30, moment:  0.91
+K2Mn1Sn1Se4.cif: spin up:  4.91, spin down:  0.47, charge:  5.38, moment:  4.45
+Ti5Ge4.cif    : spin up:  2.27, spin down:  2.26, charge:  4.54, moment:  0.01
+La1V2Al20.cif : spin up:  2.28, spin down:  2.24, charge:  4.52, moment:  0.04
+Rb3Zn1Br5.cif : spin up:  4.69, spin down:  4.61, charge:  9.30, moment:  0.09
+K2Cu1In3Se6.cif: spin up:  4.83, spin down:  4.84, charge:  9.67, moment: -0.00
+Ba4Mn1Ga2S6F4.cif: spin up:  4.83, spin down:  0.43, charge:  5.26, moment:  4.40
+Ti1Br4.cif    : spin up:  1.44, spin down:  1.07, charge:  2.52, moment:  0.37
+Ti1Tl4Se4.cif : spin up:  1.43, spin down:  1.44, charge:  2.87, moment: -0.01
+La12Mn3Al4Se28.cif: spin up:  4.91, spin down:  0.48, charge:  5.39, moment:  4.43
+Ni3Al15Ge4.cif: spin up:  4.47, spin down:  4.48, charge:  8.95, moment: -0.01
+Na1Ti1Se4.cif : spin up:  1.42, spin down:  1.50, charge:  2.92, moment: -0.08
+La3Co4Sn13.cif: spin up:  4.27, spin down:  4.06, charge:  8.33, moment:  0.21
+Rb1Ti1P1S5.cif: spin up:  1.26, spin down:  1.26, charge:  2.52, moment: -0.00
+Ti7Br16.cif   : spin up:  1.67, spin down:  0.75, charge:  2.42, moment:  0.93
+Co2Sn3Te3.cif : spin up:  4.46, spin down:  3.91, charge:  8.37, moment:  0.55
+Ti20Al3Si9.cif: spin up:  2.35, spin down:  2.33, charge:  4.68, moment:  0.02
+Cs4Ti3S14.cif : spin up:  1.29, spin down:  1.31, charge:  2.61, moment: -0.02
+Cs3Co1I5.cif  : spin up:  4.45, spin down:  2.56, charge:  7.01, moment:  1.88
+Ti7Cl16.cif   : spin up:  1.79, spin down:  0.67, charge:  2.46, moment:  1.12
+Cs3Cu2Bi5S10.cif: spin up:  4.85, spin down:  4.85, charge:  9.71, moment:  0.00
+Co1In2.cif    : spin up:  3.35, spin down:  3.35, charge:  6.71, moment:  0.00
+Cu1P4S3Br1.cif: spin up:  4.89, spin down:  4.86, charge:  9.75, moment:  0.03
+Fe7Se8.cif    : spin up:  3.95, spin down:  2.04, charge:  6.00, moment:  1.91
+Sc7As3.cif    : spin up:  1.40, spin down:  1.29, charge:  2.69, moment:  0.10
+Li2Mn1Ge1S4.cif: spin up:  4.91, spin down:  0.44, charge:  5.35, moment:  4.47
+Ba2Fe1Sb1S5.cif: spin up:  4.51, spin down:  1.78, charge:  6.29, moment:  2.73
+prediction.json: spin up:  4.00, spin down:  3.92, charge:  7.92, moment:  0.09
+Co2Ge3Se3.cif : spin up:  4.96, spin down:  4.95, charge:  9.91, moment:  0.01
+Li4Zn1P2S8.cif: spin up:  4.07, spin down:  3.89, charge:  7.96, moment:  0.18
+Co2Ge3Te3.cif : spin up:  3.88, spin down:  0.72, charge:  4.60, moment:  3.16
+Cr1Al2Cl8.cif : spin up:  4.51, spin down:  1.78, charge:  6.29, moment:  2.73
+Ba2Fe1Bi1S5.cif: spin up:  4.84, spin down:  4.84, charge:  9.68, moment: -0.00
+La2Cu1Bi1S5.cif: spin up:  4.81, spin down:  4.82, charge:  9.62, moment: -0.01
+Cu1P2Bi1Se6.cif: spin up:  2.63, spin down:  2.44, charge:  5.07, moment:  0.20
+Ti2S1.cif     : spin up:  2.18, spin down:  2.18, charge:  4.36, moment:  0.00
+Ti5Si4.cif    : spin up:  4.86, spin down:  4.86, charge:  9.72, moment: -0.00
+La2Cu1In1Se5.cif: spin up:  4.39, spin down:  1.89, charge:  6.28, moment:  2.50
+Cs3Fe2S4.cif  : spin up:  2.59, spin down:  2.58, charge:  5.17, moment:  0.01
+Sc11Ga10.cif  : spin up:  2.28, spin down:  2.24, charge:  4.52, moment:  0.03
+Mg3V2Al18.cif : spin up:  2.27, spin down:  2.23, charge:  4.50, moment:  0.04
+V1Al10.cif    : spin up:  4.59, spin down:  2.54, charge:  7.13, moment:  2.05
+Rb3Co1N1O3Cl4.cif: spin up:  3.75, spin down:  0.85, charge:  4.61, moment:  2.90
+Cr5S8.cif     : spin up:  3.61, spin down:  3.35, charge:  6.96, moment:  0.26
+La1Fe2Ga8.cif : spin up:  4.66, spin down:  1.23, charge:  5.89, moment:  3.43
+Fe1N2S2Te1Cl5.cif: spin up:  4.82, spin down:  4.82, charge:  9.64, moment: -0.01
+Cu7S4.cif     : spin up:  1.29, spin down:  1.31, charge:  2.60, moment: -0.01
+Li4Ti1S4.cif  : spin up:  4.87, spin down:  4.88, charge:  9.75, moment: -0.01
+Cs2Zn1Bi2Se5.cif: spin up:  3.57, spin down:  3.59, charge:  7.16, moment: -0.02
+Cs3Zn1N1O3I4.cif: spin up:  0.78, spin down:  0.81, charge:  1.58, moment: -0.03
+K2Sc1P2Se7.cif: spin up:  1.38, spin down:  1.31, charge:  2.69, moment:  0.07
+Ti19Se20.cif  : spin up:  0.74, spin down:  0.73, charge:  1.46, moment:  0.01
+Cs3Sc1Cl6.cif : spin up:  3.63, spin down:  3.67, charge:  7.30, moment: -0.04
+La2Ni12P5.cif : spin up:  1.83, spin down:  1.83, charge:  3.66, moment: -0.01
+Rb3V1S4.cif   : spin up:  5.04, spin down:  5.05, charge: 10.09, moment: -0.00
+Cu3Bi2S4Br1.cif: spin up:  4.84, spin down:  4.84, charge:  9.68, moment: -0.01
+La2Cu1In1S5.cif: spin up:  4.69, spin down:  4.65, charge:  9.34, moment:  0.04
+Li12Cu11As12.cif: spin up:  4.71, spin down:  4.63, charge:  9.34, moment:  0.08
+Cu15Bi4Se16I4.cif: spin up:  4.57, spin down:  4.31, charge:  8.88, moment:  0.26
+V1Sn2.cif     : spin up:  4.73, spin down:  4.66, charge:  9.39, moment:  0.07
+Cu1P4Se3Cl1.cif: spin up:  3.17, spin down:  2.59, charge:  5.76, moment:  0.58
+Mg3Cr2Al18.cif: spin up:  3.21, spin down:  3.05, charge:  6.26, moment:  0.16
+Rb4Zn7As7.cif : spin up:  4.83, spin down:  4.84, charge:  9.66, moment: -0.01
+Cu4Pb1Bi5S11.cif: spin up:  4.02, spin down:  3.98, charge:  8.00, moment:  0.04
+Co2Ge3S3.cif  : spin up:  4.40, spin down:  1.94, charge:  6.34, moment:  2.46
+Ba5Fe4S11.cif : spin up:  1.29, spin down:  1.31, charge:  2.61, moment: -0.02
+Rb4Ti3S14.cif : spin up:  4.46, spin down:  4.47, charge:  8.92, moment: -0.01
+K8Zn1Tl10.cif : spin up:  4.87, spin down:  0.46, charge:  5.33, moment:  4.42
+K10Mn4Sn4S17.cif: spin up:  4.48, spin down:  1.98, charge:  6.46, moment:  2.50
+Rb3Fe2Se4.cif : spin up:  1.83, spin down:  1.83, charge:  3.66, moment: -0.00
+Cs3V1S4.cif   : spin up:  4.92, spin down:  0.43, charge:  5.35, moment:  4.49
+Cs2Mn1Bi2S5.cif: spin up:  0.90, spin down:  0.94, charge:  1.84, moment: -0.05
+Sc11Ge10.cif  : spin up:  2.02, spin down:  1.67, charge:  3.69, moment:  0.35
+Sr6V9O2S22.cif: spin up:  1.28, spin down:  1.32, charge:  2.60, moment: -0.04
+Cs2Ti2S9.cif  : spin up:  4.30, spin down:  4.30, charge:  8.60, moment:  0.01
+Zn1Cl2.cif    : spin up:  3.93, spin down:  1.42, charge:  5.35, moment:  2.51
+Mn3Ge5.cif    : spin up:  4.13, spin down:  4.09, charge:  8.22, moment:  0.04
+Ni9S8.cif     : spin up:  2.39, spin down:  2.41, charge:  4.80, moment: -0.02
+V3P1.cif      : spin up:  4.79, spin down:  4.79, charge:  9.57, moment:  0.00
+Cu1P10.cif    : spin up:  4.99, spin down:  4.93, charge:  9.91, moment:  0.06
+Ba1Cu4S3.cif  : spin up:  4.08, spin down:  4.06, charge:  8.14, moment:  0.02
+Ca1Co2Al8.cif : spin up:  3.89, spin down:  3.54, charge:  7.43, moment:  0.35
+Co2As1.cif    : spin up:  0.75, spin down:  0.71, charge:  1.46, moment:  0.03
+K3Sc1Cl6.cif  : spin up:  4.41, spin down:  4.40, charge:  8.82, moment:  0.01
+Na14K6Zn1Tl18.cif: spin up:  2.31, spin down:  2.00, charge:  4.31, moment:  0.31
+Ti2Se1.cif    : spin up:  4.28, spin down:  4.06, charge:  8.34, moment:  0.21
+Ca3Co4Sn13.cif: spin up:  3.94, spin down:  2.28, charge:  6.21, moment:  1.66
+Na3Fe2Se4.cif : spin up:  1.30, spin down:  1.30, charge:  2.60, moment: -0.01
+Ti1Tl4S4.cif  : spin up:  4.50, spin down:  4.50, charge:  9.00, moment: -0.00
+Ca1Ni2Al8.cif : spin up:  4.89, spin down:  4.90, charge:  9.79, moment: -0.01
+K2Zn1Sn2Se6.cif: spin up:  4.82, spin down:  2.25, charge:  7.06, moment:  2.57
+Ba2Co1Cl6.cif : spin up:  4.83, spin down:  4.84, charge:  9.68, moment: -0.01
+Cs1Cu1S6.cif  : spin up:  4.66, spin down:  4.64, charge:  9.30, moment:  0.02
+La5Cu19P12.cif: spin up:  4.40, spin down:  1.89, charge:  6.29, moment:  2.51
+Rb3Fe2S4.cif  : spin up:  1.82, spin down:  0.67, charge:  2.49, moment:  1.15
+K3Ti1Cl6.cif  : spin up:  4.55, spin down:  4.60, charge:  9.15, moment: -0.05
+Cs6Zn1Ge8.cif : spin up:  4.82, spin down:  4.83, charge:  9.64, moment: -0.01
+Cu6As4S9.cif  : spin up:  4.94, spin down:  4.94, charge:  9.88, moment:  0.01
+Li2Zn1Ge1S4.cif: spin up:  2.53, spin down:  2.47, charge:  5.00, moment:  0.05
+Ti20Ge9Sb3.cif: spin up:  4.66, spin down:  1.22, charge:  5.88, moment:  3.44
+Fe1P1Cl8.cif  : spin up:  2.27, spin down:  2.24, charge:  4.51, moment:  0.04
+V4Al41.cif    : spin up:  4.42, spin down:  1.91, charge:  6.33, moment:  2.51
+Ba3Fe1S4Br1.cif: spin up:  4.70, spin down:  4.60, charge:  9.30, moment:  0.09
+Zn1Br2.cif    : spin up:  2.37, spin down:  1.97, charge:  4.34, moment:  0.40
+Ti11Se4.cif   : spin up:  4.54, spin down:  4.45, charge:  8.99, moment:  0.09
+Cu14I19.cif   : spin up:  3.85, spin down:  0.77, charge:  4.62, moment:  3.08
+Na1Cr1P2S6.cif: spin up:  1.35, spin down:  1.20, charge:  2.55, moment:  0.15
+Sc5As3.cif    : spin up:  1.82, spin down:  1.80, charge:  3.62, moment:  0.02
+Sc5Si4.cif    : spin up:  3.70, spin down:  0.90, charge:  4.59, moment:  2.80
+Cr19S30.cif   : spin up:  3.97, spin down:  3.92, charge:  7.89, moment:  0.05
+Co1P4F12.cif  : spin up:  4.01, spin down:  0.77, charge:  4.78, moment:  3.23
+Cr1Te3.cif    : spin up:  4.47, spin down:  4.50, charge:  8.98, moment: -0.03
+Zn3As2.cif    : spin up:  4.87, spin down:  4.87, charge:  9.75, moment:  0.00
+Na3Cu1Sn1Se4.cif: spin up:  4.69, spin down:  1.52, charge:  6.21, moment:  3.18
+Cs7Fe4S8.cif  : spin up:  3.64, spin down:  3.63, charge:  7.27, moment:  0.01
+La1Fe2Al8.cif : spin up:  2.31, spin down:  1.94, charge:  4.25, moment:  0.37
+Sc9Te2.cif    : spin up:  4.65, spin down:  1.24, charge:  5.89, moment:  3.42
+Fe1S1Cl7.cif  : spin up:  2.44, spin down:  2.15, charge:  4.59, moment:  0.28
+Ti8S3.cif     : spin up:  4.83, spin down:  0.32, charge:  5.14, moment:  4.51
+Mn8O10Cl3.cif : spin up:  1.28, spin down:  1.28, charge:  2.56, moment:  0.00
+Ti13S24.cif   : spin up:  1.29, spin down:  1.30, charge:  2.60, moment: -0.01
+Li3Na5Ti2S8.cif: spin up:  5.06, spin down:  4.37, charge:  9.43, moment:  0.68
+Cr1Sn2.cif    : spin up:  1.80, spin down:  1.85, charge:  3.64, moment: -0.05
+Sc3Ga2.cif    : spin up:  4.56, spin down:  4.47, charge:  9.03, moment:  0.09
+Cu16I19.cif   : spin up:  2.00, spin down:  1.59, charge:  3.59, moment:  0.40
+Li4V1S4.cif   : spin up:  4.95, spin down:  4.94, charge:  9.89, moment:  0.01
+K10Zn4Sn4S17.cif: spin up:  1.40, spin down:  1.19, charge:  2.59, moment:  0.21
+La4Ti5O2S12.cif: spin up:  4.85, spin down:  4.85, charge:  9.70, moment: -0.01
+Cu2Pb6Bi8S19.cif: spin up:  1.65, spin down:  1.68, charge:  3.32, moment: -0.03
+La1Ti2Al20.cif: spin up:  4.69, spin down:  1.53, charge:  6.22, moment:  3.15
+Na3Fe2S4.cif  : spin up:  3.60, spin down:  3.62, charge:  7.23, moment: -0.02
+Cs3Zn1I5.cif  : spin up:  4.82, spin down:  4.83, charge:  9.65, moment: -0.00
+Cu3Ge1S4.cif  : spin up:  1.28, spin down:  1.28, charge:  2.56, moment:  0.01
+Na3Ti10S20.cif: spin up:  2.67, spin down:  2.26, charge:  4.93, moment:  0.41
+Ti8Se3.cif    : spin up:  4.85, spin down:  4.86, charge:  9.70, moment: -0.01
+La3Cu1O2S3.cif: spin up:  4.99, spin down:  4.97, charge:  9.96, moment:  0.02
+Na4Zn3S5.cif  : spin up:  4.36, spin down:  3.12, charge:  7.48, moment:  1.24
+Cs3Co1N1O3I4.cif: spin up:  1.14, spin down:  1.21, charge:  2.35, moment: -0.06
+Sc5Ge4.cif    : spin up:  4.84, spin down:  4.85, charge:  9.69, moment: -0.00
+K1Cu1P2Se5.cif: spin up:  5.75, spin down:  2.05, charge:  7.80, moment:  3.71
+Ca9Mn4Bi9.cif : spin up:  3.99, spin down:  0.62, charge:  4.61, moment:  3.36
+La3Cr1S6.cif  : spin up:  4.06, spin down:  3.65, charge:  7.70, moment:  0.41
+Co2S3.cif     : spin up:  3.46, spin down:  3.47, charge:  6.92, moment: -0.01
+Zn1I2.cif     : spin up:  3.89, spin down:  3.91, charge:  7.80, moment: -0.01
+Ni8P3.cif     : spin up:  4.84, spin down:  4.85, charge:  9.68, moment: -0.01
+Rb1Cu1Sn1S3.cif: spin up:  4.83, spin down:  0.45, charge:  5.28, moment:  4.38
+Mn1Ga2S4.cif  : spin up:  4.88, spin down:  4.89, charge:  9.76, moment: -0.01
+Na4Zn3Se5.cif : spin up:  2.47, spin down:  1.37, charge:  3.84, moment:  1.09
+V4S9Br4.cif   : spin up:  1.29, spin down:  1.28, charge:  2.56, moment:  0.01
+Ti7S12.cif    : spin up:  3.17, spin down:  3.05, charge:  6.23, moment:  0.12
+Mg3Mn2Al18.cif: spin up:  4.93, spin down:  4.94, charge:  9.87, moment: -0.01
