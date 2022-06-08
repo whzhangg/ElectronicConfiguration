@@ -4,7 +4,7 @@ import torch
 
 from mldos.tools import separate_formula
 from mldos.data.criteria import tm_maingroup_metal, tm_maingroup
-from mldos.data.datasets import open_dataset
+from mldos.data import open_dataset
 from ._model_parameter import torch_dtype, torch_device
 
 """

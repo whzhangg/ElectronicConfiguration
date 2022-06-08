@@ -2,14 +2,14 @@ import matplotlib.pyplot as plt
 import numpy as np
 from acs_sty import get_parameter, set1_cycler, tableau_cycler
 from mldos.models.model_tools import get_mae_error
+from mldos.predict_ensemble import ensemble_partitioned_predict
+from mldos.statistic import training_statistics, info_filepath
 
-def plot_learning_and_analysize_error(filename = "double_column_combined.pdf"):
-    from mldos.predict_occ import ensemble_partitioned_predict
-    from mldos.statistic import training_statistics, info_file
+def plot_learning_and_analysize_error(filename = "figure4.pdf"):
     
-    error_tm = training_statistics.estmiate_error_by_key(info_file, "T.M.")
-    error_shape = training_statistics.estmiate_error_by_key(info_file, "shape")
-    error_dist = training_statistics.estmiate_error_by_distance(info_file)
+    error_tm = training_statistics.estmiate_error_by_key(info_filepath, "T.M.")
+    error_shape = training_statistics.estmiate_error_by_key(info_filepath, "shape")
+    error_dist = training_statistics.estmiate_error_by_distance(info_filepath)
 
     result = ensemble_partitioned_predict("set")
 
@@ -174,3 +174,6 @@ def plot_learning_and_analysize_error(filename = "double_column_combined.pdf"):
 
         axs1.legend(loc = 'center left')
         fig.savefig(filename)
+
+if __name__ == "__main__":
+    plot_learning_and_analysize_error()

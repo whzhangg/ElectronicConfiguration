@@ -3,7 +3,7 @@ import numpy as np
 from acs_sty import get_parameter, set1_cycler, tableau_cycler
 
 def plot_model_prediction_supplementary(filename = "supplementary_model_prediction.pdf"):
-    from mldos.tests.model_problem import ModelProblem
+    from mldos.model_problem import ModelProblem
 
     model = ModelProblem(50)
     alpha = np.array(model.train_and_test("alpha", 50))
@@ -45,4 +45,5 @@ def plot_model_prediction_supplementary(filename = "supplementary_model_predicti
         fig.savefig(filename)
 
 if __name__ == "__main__":
-    plot_model_prediction_supplementary()
+    print("we do not run the machine learning prediction")
+    if False: plot_model_prediction_supplementary()

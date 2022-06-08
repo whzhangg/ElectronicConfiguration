@@ -1,5 +1,6 @@
 # all cache
 **/__pycache__/   
+**/.pytest_cache/
 **/.DS_Store
 
 /mldos/data/hdf/*.h5    

@@ -4,13 +4,16 @@ from mldos.tools import read_json
 import numpy as np
 from mldos.parameters import root
 
+current_path = os.path.split(__file__)[0]
+modelfolder = os.path.join(current_path, "saved")
+
+
 def save_model(model, filename = "current_model.pt"):
-    from ._model_parameter import modelfolder
     filename = os.path.join(modelfolder, filename)
     torch.save(model.state_dict(), filename)
 
+
 def load_model(model, filename = "current_model.pt"):
-    from ._model_parameter import modelfolder
     filename = os.path.join(modelfolder, filename)
     model.load_state_dict(torch.load(filename))
 

@@ -4,7 +4,7 @@ import numpy as np
 from bisect import bisect
 from mldos.parameters import symbol_one_hot_dict, TM_3D, estep_dos
 from torch_geometric.data import Data
-from .unload import load_dataset
+from .unload_pickled import load_dataset_from_pickle
 from .milad_utility import Description, INVARIANTS
 from ..tools import printProgressBar, separate_formula
 from .criteria import from_criteria_to_filename
@@ -118,7 +118,7 @@ def make_Geometry_data_with_feature(dos_data: dict, criteria: dict) -> typing.Li
 
 
 def get_all_data_as_geometric_data(criteria: dict, verbose: bool) -> typing.List[Data]:
-    datas = load_dataset()
+    datas = load_dataset_from_pickle()
     all_data = []
 
     tot_num = len(datas.keys())
@@ -189,8 +189,8 @@ def write_hdf(criteria: dict, filename: str = ""):
         f.create_dataset("targets", data = np.array(targets))
 
 
-def open_dataset(filename):
-    filename = os.path.join(training_datafolder, filename)
+def open_dataset(datasetfile_name: str) -> typing.Tuple[typing.List[str], np.ndarray, np.ndarray]:
+    filename = os.path.join(training_datafolder, datasetfile_name)
     with h5py.File(filename, 'r') as f:
         features = np.array(f["features"])
         targets = np.array(f["targets"])

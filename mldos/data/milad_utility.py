@@ -281,53 +281,6 @@ class Description(StructLite):
 
 
 
-# make_model_features("tetra", "distort")
-def make_model_features(mode, change, parameter):
-    assert mode in ["cubic", "octah", "tetra"]
-    assert change in ["scale", "distort"]
-
-    if mode == "cubic":
-        vectors = np.array([[ 1, 1, 1],
-                            [ 1, 1,-1],
-                            [ 1,-1, 1],
-                            [ 1,-1,-1],
-                            [-1, 1, 1],
-                            [-1, 1,-1],
-                            [-1,-1, 1],
-                            [-1,-1,-1]], dtype = float)
-        vectors *= 0.99 / np.sqrt(3)
-    elif mode == "octah":
-        vectors = np.array([[ 0, 0, 1],
-                            [ 1, 0, 0],
-                            [ 0, 1, 0],
-                            [ 0, 0,-1],
-                            [-1, 0, 0],
-                            [ 0,-1, 0]], dtype = float)
-        vectors *= 0.99 
-    elif mode == "tetra":
-        vectors = np.array([[ 1, 1, 1],
-                            [-1,-1, 1],
-                            [-1, 1,-1],
-                            [ 1,-1,-1]], dtype = float)
-        vectors *= 0.99 / np.sqrt(3)
-
-    max_order = INVARIANTS.max_order
-    all_vectors = []
-    if change == "scale":
-        scale = parameter
-        zernike_moments = zernike.from_deltas(max_order, scale * vectors)
-        complex_features = np.array(INVARIANTS(zernike_moments))
-        
-    elif change == "distort":
-        scale = parameter
-        distort = (np.random.rand(*vectors.shape) - 0.5) * scale
-
-        zernike_moments = zernike.from_deltas(max_order, 0.5 * vectors + distort)
-        complex_features = np.array(INVARIANTS(zernike_moments))
-    
-    return complex_features
-
-
 def write_cif_localstructure(first_shell = False, bonded = True):
     from ase import Atoms, io
     sd = Description(filename = "../../dos_calculation/calc/done/Ba1Co1S2/scf/scf.in")

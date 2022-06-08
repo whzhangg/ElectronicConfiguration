@@ -25,7 +25,7 @@ def recover_cifs():
     """
     if not os.path.exists(_cif_folder):
         os.makedirs(_cif_folder)
-    datasets = load_dataset()
+    datasets = load_dataset_from_pickle()
     for key, value in datasets.items():
         cell = np.array(value["cell"])
         positions = np.array(value["positions"])
@@ -36,7 +36,7 @@ def recover_cifs():
         break
 
 
-def load_dataset() -> typing.Dict[str, dict]:
+def load_dataset_from_pickle() -> typing.Dict[str, dict]:
     files = sorted([ p for p in os.listdir(_pickle_folder) if ".pkl" in p ])
     datas = {}
     for file in files:
